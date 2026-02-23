@@ -94,10 +94,8 @@ This project uses **ES Modules** and modern web standards. Because of browser se
 
 ## 🤝 Connect With Me
 
-*   **LinkedIn:** [Pantane Hub](https://www.linkedin.com/in/pantane/)
-*   **Twitter/X:** [@pantane4](https://twitter.com/pantane4)
-*   **Email:** [pantane254@gmail.com](mailto:pantane254@gmail.com)
-*   **WhatsApp:** [+254 740 312 402](https://wa.me/254740312402)
+*   **[Pantane Hub](https://pantane1.github.io/nf/)**
+
 
 ---
 
