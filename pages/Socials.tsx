@@ -42,7 +42,7 @@ const Socials: React.FC = () => {
         <SocialCard name="GitHub"   handle="Pantane1"          desc="Code, projects & contributions" url="https://github.com/pantane1" icon={<GithubIcon className="w-7 h-7"/>} color="#181717"/>
         <SocialCard name="LinkedIn" handle="Pantane_Hub"       desc="Professional network"           url="https://www.linkedin.com/in/pantane/" icon={<LinkedInIcon className="w-7 h-7"/>} color="#0A66C2"/>
         <SocialCard name="Twitter / X" handle="@Pantane4"      desc="Thoughts and updates"           url="https://twitter.com/pantane4" icon={<TwitterIcon className="w-7 h-7"/>} color="#000000"/>
-        <SocialCard name="Instagram" handle="@_pantane_"       desc="Behind the scenes"              url="https://instagram.com/_pantane_" icon={<InstagramIcon className="w-7 h-7"/>} color="#E4405F"/>
+        <SocialCard name="Instagram" handle="@_pan.tane"       desc="Behind the scenes"              url="https://instagram.com/_pan.tane" icon={<InstagramIcon className="w-7 h-7"/>} color="#E4405F"/>
         <SocialCard name="Facebook"  handle="Pantane"          desc="Community & updates"            url="https://web.facebook.com/profile.php?id=100095346974516" icon={<FacebookIcon className="w-7 h-7"/>} color="#1877F2"/>
       </div>
     </div>
