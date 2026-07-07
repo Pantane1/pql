@@ -50,7 +50,7 @@
 | **Payments** | M-Pesa via Lipana, PayPal, Paystack |
 | **Email** | EmailJS |
 | **Data** | GitHub REST API |
-| **Hiosted-On** | Vercel |
+| **Hosted-On** | Vercel |
 
 
 ## 📂 Structure
