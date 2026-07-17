@@ -11,7 +11,7 @@
 
 > **Built different. Built in Kenya.**
 
-**Pantane Hub** is a high-performance professional portfolio built by **[Pantane](https://www.pantane.is-a.dev)**. A central showcase for software projects, professional connections, and technical explorations — with deep integrations for the East African market.
+**Pantane Hub** is a high-performance professional portfolio built by **[Pantane](https://nf-d.netlify.app)**. A central showcase for software projects, professional connections, and technical explorations — with deep integrations for the East African market.
 
 [**Explore the Live Site ↗**](https://www.pantane.is-a.dev)
 
