@@ -87,10 +87,8 @@ pantane-hub/
 
 ## 🤝 Connect
 
-- 🌐 [pantane.is-a.dev](https://www.pantane.is-a.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/pantane/)
-- 🐙 [GitHub](https://github.com/pantane1)
-- 🐦 [Twitter / X](https://twitter.com/pantane4)
+- 🌐 [_Socials_](https://www.pantane.is-a.dev/socials)
+
 
 ---
 
